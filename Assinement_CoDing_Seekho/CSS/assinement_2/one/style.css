@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(135deg, #343b52, #77777a);
+    text-align: center;
+}
+
+/* form{
+    height: 730px;
+    width: 100%;
+    background: linear-gradient(135deg, #343b52, #77777a);
+    text-align: center;
+} */
+
+
+
+.parent{
+   height: 200px;
+   width: 360px;
+   margin-top:300px ;
+   
+   display: inline-block;
+   background-color: #0b0c0fc5;
+   border: 2px solid ;
+   border-color: #02aa99;
+   border-radius: 5px;
+  text-align: center;
+
+
+}
+
+.name{
+   height: 5px;
+    margin: 3px;
+     padding: 10px;
+}
+
+
+.password label{
+  padding: 5px;
+}
+
+.login label{
+  padding: 5px;
+}
+
+
+
+

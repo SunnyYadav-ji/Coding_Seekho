@@ -1,0 +1,27 @@
+*{
+    height: 20vh;
+    width: 25vw;
+}
+
+body{
+    background-color:aliceblue;
+}
+
+
+.parent{
+padding: 50%;
+background-color: azure;
+border: 2px solid black;
+
+}
+
+
+div div{
+    height: 18vh;
+    width: 22vw;
+    padding: 20%;
+}
+
+.info{
+    margin: bottom 10px;
+}

@@ -1,0 +1,43 @@
+.head{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.para{
+    padding: 10px;
+    text-align: center;
+}
+.parent{
+    width: 60%;
+    padding-left: 150px;
+    text-align: center;
+
+}
+
+.img{
+    width: 200px;
+    padding-left: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+.img img01{
+    padding: 10px;
+    text-align: center;
+}
+
+.img img02{
+    padding: 10px;
+    text-align: center;
+}
+
+.img img03{
+    padding: 10px;
+    text-align: center;
+}
+
+.img img04{
+    padding: 10px;
+    text-align: center;
+}

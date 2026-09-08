@@ -1,0 +1,29 @@
+.parent{
+    margin: 100px;
+    height: 400px;
+    width: 70%;
+    border-style:solid;
+    border-radius: 50px ;
+    background-color:rgb(211, 235, 216);
+    text-align: center;
+}
+
+
+.img{
+  height: 100px;
+  width: 100px;
+ padding:10px;
+ border: 2px solid;
+ border-radius: 5px;
+
+}
+.box1{
+    text-align: center;
+}
+
+.button{
+    height: 50px;
+    width: 120px;
+    color: white;
+    background-color:lightgreen ;
+}

@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+
+form{
+    position: absolute;
+height: 350px;
+width: 250px;
+top: 50%;
+left: 50%;
+background-color: rgb(202, 38, 38);
+padding: 20px;
+box-shadow: 0 0 12px;
+
+}
+
+
+h2{
+    text-align: center;
+}
+
+form label{
+    padding: 30px;
+    display: block;
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.btn{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    /* margin-bottom: 20px; */
+
+}
+
+.auth{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    margin-top: 10px;
+    text-align: center;
+}

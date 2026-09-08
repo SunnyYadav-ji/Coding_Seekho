@@ -1,0 +1,64 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+.parent{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    color: white;
+
+    /* padding: 500px 150px 400px 150px; */
+    border: 2px solid purple;
+    background-color: purple;
+    border-radius: 5px;
+    /* text-align: center; */
+}
+.head{
+    padding-top: 150px;
+}
+.text{
+    padding: 10px;
+}
+.template{
+    height: 90%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: black;
+    
+    background-color:white;
+    
+    text-align: center;
+}
+
+.text{
+    margin: 0px;
+    
+
+}
+
+.content{
+   
+    padding-top:50px ;
+    text-align: center;
+}
+
+.button01{
+    height: 50px;
+    width: 150px;
+    padding: 2px;
+    color: white;
+    background-color: purple;
+    border-radius: 5px;
+}
+
+.para{
+   padding-right: 20px;
+}
+
+.head04{
+    padding-left: 0px;
+}
